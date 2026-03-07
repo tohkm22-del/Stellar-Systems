@@ -29,6 +29,7 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 - Rast - Finished - No analog  
 - Nooe - Finished - Upsilon Andromedae
 - Xeroon - WIP - No analog
+- Deteea - WIP - No analog - NOT RELEASED
 - Keppe - Finshed - Trappist 1 - NOT RELEASED
 - Swarch - Finished - No analog
 - Licae - WIP - Lich - NOT RELEASED
@@ -53,6 +54,7 @@ Parallax Continued support will be done in the future, as I average 1-2 fps with
 
 **WIP SYSTEMS**  
 - Licae
+- Deteea
 
 ### INSTALLATION
 Download and unzip Stellar Systems, and put Stellar Systems into your GameData.  
@@ -63,6 +65,7 @@ Dependencies [You **need** these]
 |  [ModuleManager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/) | Loads mods for KSP
 |  [VertexMitchellNetravaliHeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)  | Adds refined Heightmap Algorithms
 |  [VertexColorMapEmissive](https://github.com/jamespglaze/VertexColorMapEmissive)  | Adds planetary emissives
+|  [VertexHeightOblateAdvanced](https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases/tag/1.1.4)  | Allows oblate bodies
 |  [KSPTextureLoader](https://github.com/Phantomical/KSPTextureLoader/releases) | Optimizes texture loading and memory usage
 |  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) | Allows Stellar Systems to function
 |  [HarmonyKSP](https://github.com/KSPModdingLibs/HarmonyKSP/releases/tag/2.2.1.0) | Kopernicus dependency
