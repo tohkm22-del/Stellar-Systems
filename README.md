@@ -4,7 +4,7 @@
 
 # Stellar Systems
 ## Stellar Systems-V1.0.3  
-Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 7 systems with 5 being complete.  
+Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 7 systems with 6 being complete.  
 
 ### PICTURES
 <img width="500" height="518" alt="fart" src="https://github.com/user-attachments/assets/65987345-69c9-4948-ad2a-a6eafb9796ec" />  
@@ -17,17 +17,17 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 
 <img width="500" height="1079" alt="poop" src="https://github.com/user-attachments/assets/42290829-b161-41d0-b1ae-9ba55566f8e4" />  
 
-<sup>Heloon seen from Xovn</sup> 
+<sup>Heloon seen from Zoven</sup> 
 
 <img width="500" height="905" alt="Screenshot 2026-02-28 225136" src="https://github.com/user-attachments/assets/e0e389b4-bed8-4260-8dd4-7b315866b999" />
 
-<sup>A view of Xovn's clouds</sup> 
+<sup>A view of Zoven's clouds</sup> 
 
   
 
 ### SYSTEMS:
 - Rast - Finished - No analog  
-- Nooe - Finished - Upsilon Andromedae
+- Noren - Finished - Upsilon Andromedae
 - Xeroon - Finished - No analog
 - Deteea - WIP - No analog - NOT RELEASED
 - Keppe - Finshed - Trappist 1 - NOT RELEASED
@@ -50,10 +50,8 @@ Parallax Continued support will be done in the future, as I average 1-2 fps with
 
 **SYSTEMS IDEAS**  
 - A B-type star hosting many unique planets.  
-- A system early in its development, with large protoplanetary disks and chaotic environments.  
 
 **WIP SYSTEMS**  
-- Licae
 - Deteea
 
 ### INSTALLATION
