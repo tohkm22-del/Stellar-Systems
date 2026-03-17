@@ -11,17 +11,21 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 
 <sup>Euba and its moon Mimar</sup> 
 
-<img width="500" height="1079" alt="Heloon" src="https://github.com/user-attachments/assets/48415f88-ea1b-4b6a-860c-fe956c4220eb" /> 
+<img width="500" height="1079" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" />  
 
-<sup>Heloon and its moon Crav</sup>  
+<sup>Heloon</sup>  
 
-<img width="500" height="1079" alt="poop" src="https://github.com/user-attachments/assets/42290829-b161-41d0-b1ae-9ba55566f8e4" />  
+<img width="500" height="1079" alt="Screenshot 2026-03-17 203127" src="https://github.com/user-attachments/assets/2e328aef-e4e0-4350-9146-cc4f1ed396e2" />  
+ 
+<sup>Braaum</sup> 
 
-<sup>Heloon seen from Zoven</sup> 
+<img width="500" height="1079" alt="Screenshot 2026-03-17 203653" src="https://github.com/user-attachments/assets/87be94c1-0161-4ec6-b6ad-c8b874406290" />  
 
-<img width="500" height="905" alt="Screenshot 2026-02-28 225136" src="https://github.com/user-attachments/assets/e0e389b4-bed8-4260-8dd4-7b315866b999" />
+<sup>Pyyth</sup> 
 
-<sup>A view of Zoven's clouds</sup> 
+<img width="500" height="1079" alt="Screenshot 2026-03-17 204040" src="https://github.com/user-attachments/assets/b32b00f4-05af-4ff6-92ae-72717c3395fd" />
+
+<sup>Gevlo seen up close</sup> 
 
   
 
