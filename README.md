@@ -36,7 +36,7 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 - Deteea - WIP - No analog - NOT RELEASED
 - Keppe - Finshed - Trappist 1 - NOT RELEASED
 - Swarch - Finished - No analog
-- Licae - WIP - Lich - NOT RELEASED
+- Licae - Finished - Lich - NOT RELEASED
 
 ### LICENSE:
 CC-BY-NC-ND
