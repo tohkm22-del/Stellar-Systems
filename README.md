@@ -26,7 +26,7 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 
 ### SYSTEMS:
 |  SYSTEM  | STATE | ANALOGUE |
-| ------------------------- | ------------------------- | ------------------------- |
+| - | ------------------------- | ------------------------- |
 |  Rast | Finished | No analog |
 | Xeroon | WIP | Alpha Centauri |
 | Orrion | WIP, Not released |  No analog |
