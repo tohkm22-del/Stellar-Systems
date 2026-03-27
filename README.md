@@ -2,8 +2,7 @@
 
 <sup>Made by @RatchetKSP</sup>
 
-# Stellar Systems
-## Stellar Systems-V1.0.3  
+# Stellar Systems-V1.0.3  
 Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 6 systems with 4 being complete.  
 
 ### PICTURES
@@ -26,12 +25,14 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
   
 
 ### SYSTEMS:
-- Rast - Finished - No analog  
-- Xeroon - WIP - No analog
-- Orrion - WIP - No analog - NOT RELEASED
-- Noren - Finished - Upsilon Andromedae
-- Keppe - Finshed - Trappist 1 - NOT RELEASED
-- Swarch - Finished - No analog
+|  SYSTEM  | STATE | ANALOGUE |
+| ------------------------- | ------------------------- | ------------------------- |
+|  Rast | Finished | No analog |
+| Xeroon | WIP | Alpha Centauri |
+| Orrion | WIP, Not released |  No analog |
+| Noren | Finished | Upsilon Andromedae |
+| Keppe| Finished, Not released | Trappist 1 |
+| Swarch | Finished |  No analog |
 
 ### LICENSE:
 CC-BY-NC-ND
@@ -56,7 +57,7 @@ Parallax Continued support will be done in the future, as I average 1-2 fps with
 - Xeroon
 
 ### INSTALLATION
-Download and unzip Stellar Systems, and put Stellar Systems into your GameData.  
+Download and unzip Stellar Systems, take Stellar Systems out of the GameData folder, and drag and drop it into your KSP GameData.  
 
 Dependencies [You **need** these]
 |  MODS  | PURPOSE |
