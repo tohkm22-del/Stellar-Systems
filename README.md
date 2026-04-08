@@ -14,7 +14,7 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 |:--:|:--:|
 |<sup>Braaum</sup> | <sup>Gevlo seen up close</sup>  |
 
-|<img width="500" height="1080" alt="Kaas" src="https://github.com/user-attachments/assets/77ad77b5-5431-42fc-8e0e-f6873d45ad97" /> |
+|<img width="500" height="1079" alt="Kaas" src="https://github.com/user-attachments/assets/77ad77b5-5431-42fc-8e0e-f6873d45ad97" /> |
 |:--:|
 |<sup>Kaas and it's moons Vosk and Contriax</sup> |
 
