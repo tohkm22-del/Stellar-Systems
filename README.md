@@ -25,7 +25,7 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 | - | ------------------------- | ------------------------- |
 |  Rast | Finished | No analog |
 | Xeroon | WIP | Alpha Centauri |
-| Orrion | Finished, Not released |  No analog |
+| Orrion | Finished, Not released | Teide 1 |
 | Noren | Finished | Upsilon Andromedae |
 | Keppe| Finished, Not released | Trappist 1 |
 | Swarch | Finished |  No analog |
@@ -45,7 +45,6 @@ There will be more systems, like a planned Kerbol outer planets, and many exotic
 Parallax Continued support will be done in the future, as I average 1-2 fps with my current setup, so it's not feasible right now.
 
 **SYSTEMS IDEAS**  
-- A B-type star hosting many unique planets.
 - A young system with disks of gas and lots of lava. 
 
 **WIP SYSTEMS**  
