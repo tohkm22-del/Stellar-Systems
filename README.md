@@ -21,7 +21,7 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 <sup>*More pictures in my Discord server</sup>
 
 ### SYSTEMS:
-|  SYSTEM  | STATE | ANALOGUE |
+|  SYSTEM  | STATE | INSPIRATION |
 | - | ------------------------- | ------------------------- |
 |  Rast | Finished | No analog |
 | Xeroon | WIP | Alpha Centauri |
