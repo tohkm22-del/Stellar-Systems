@@ -6,7 +6,7 @@
 Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 6 systems with 5 being complete.  
 
 ### PICTURES
-|<img width="500" height="518" alt="fart" src="https://github.com/user-attachments/assets/65987345-69c9-4948-ad2a-a6eafb9796ec" /> | <img width="500" height="1079" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> |
+|<img width="500" height="518" alt="fart" src="https://github.com/user-attachments/assets/65987345-69c9-4948-ad2a-a6eafb9796ec" /> | <img width="500" height="518" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> |
 |:--:|:--:|
 |<sup>Euba and its moon Mimar</sup>|<sup>Heloon</sup>  |
 
