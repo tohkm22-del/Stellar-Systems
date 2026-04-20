@@ -35,6 +35,8 @@ Original systems made by me.
 | Swarch | Finished |  No analogue | 
 
 ### EXPANSIONS
+Expansions based off of movies, books or even past concepts I had.  
+
 Project Hail Mary Expansion
 |  SYSTEM  | STATE | ANALOGUE |
 | - | ------------------------- | ------------------------- |
@@ -61,7 +63,7 @@ Parallax Continued support will be done in the future, as I average 1-2 fps with
 ## INSTALLATION
 Download and unzip Stellar Systems, take Stellar Systems out of the GameData folder, and drag and drop it into your KSP GameData.  
 
-- **Dependencies**
+### Dependencies
 |  MODS  | PURPOSE |
 | ------------------------- | ------------------------- |
 |  [ModuleManager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/) | Loads mods for KSP
@@ -75,7 +77,7 @@ Download and unzip Stellar Systems, take Stellar Systems out of the GameData fol
 |  [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) | Bugfix pack
 |  [KEX](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases) | Adds wormholes FX
 
-- **Extra Mods** [Recommended]
+### Extra Mods [Recommended]
 | MODS | PURPOSE |
 | ------------------------- | ------------------------- |
 | [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-LoadingScreens/releases/tag/v0.5.0)| Replaces the stock loading screens with custom ones
@@ -83,7 +85,7 @@ Download and unzip Stellar Systems, take Stellar Systems out of the GameData fol
 |  [AtmosphereUtilities](https://github.com/plantman-dev/AtmosphereUtilities) | Allows oxygen to be at certain heights/places
 |  [Singularity](https://github.com/LGhassen/Singularity/releases) | New black hole shaders
 
-- **Visual Mods** [Recommended]
+### Visual Mods [Recommended]
 | MODS | PURPOSE |
 | ------------------------- | ------------------------- |
 | [EVE](https://www.patreon.com/blackrack), Volumetric ONLY!! | Adds dynamic 3D clouds
