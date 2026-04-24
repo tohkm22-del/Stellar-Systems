@@ -29,19 +29,24 @@ Original systems made by me.
 | - | - | - |
 |  Rast | Finished | No analogue |
 | Xeroon | Finished | Alpha Centauri |
-| Orrion | Finished, Not released | Teide 1 |
+| Orrion | Finished | Teide 1 |
 | Noren | Finished | Upsilon Andromedae |
-| Keppe| Finished, Not released | Trappist 1 |
+| Keppe| Finished | Trappist 1 |
 | Swarch | Finished |  No analogue | 
 
 ### EXPANSIONS
 Expansions based off of movies, books or even past concepts I had.  
 
-Project Hail Mary Expansion
+**Project Hail Mary Expansion**
 |  SYSTEM  | STATE | ANALOGUE |
 | - | ------------------------- | ------------------------- |
-|  Kau Ceti | Finished, Not released | Tau Ceti |
-| 40 Keridani | Finished, Not released | Epsilon Eridani |
+|  Kau Ceti | Finished | Tau Ceti |
+| 40 Keridani | Finished | Epsilon Eridani |  
+  
+**Kerbol Outer Planets**
+|  SYSTEM  | STATE | ANALOGUE |
+| - | ------------------------- | ------------------------- |
+| Kerbol Outer Planets | WIP, Not released | Our solar system |
 
 ## ISSUES
 I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, or Kcalbeloh. If it does conflict, please tell me here on [Discord](https://discord.gg/7gJw6GxX)  
