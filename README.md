@@ -2,9 +2,6 @@
 
 <sup>Made by @RatchetKSP</sup>  
 
-# DEVELOPMENT STOPPED  
-<sup>Temporarily</sup> 
-
 # Stellar Systems-V2.0.1
 Stellar Systems is a large-scale, unrealistic to semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 8 systems with all being complete.  
 
