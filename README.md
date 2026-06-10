@@ -90,11 +90,8 @@ If there are any other issue report them to me, thank you!
 There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles along with volumetirc auroras and rings (credit to @TheSpacePotato).
 
 ## The Future
-There will be more systems, like a planned Kerbol outer planets, and many exotic worlds to explore.  
+There will be more systems, with many more exotic worlds to explore.  
 Parallax Continued support will be done in the future, as I average 1-2 fps with my current setup, so it's not feasible right now.
-
-### System Ideas
-- A young system with disks of gas and lots of lava. 
 
 ### WIP Systems 
 - There are no WIP systems
