@@ -63,7 +63,7 @@ Original systems made by me.
 | - | - | - |
 |  Rast | Finished | No analogue |
 | Xeroon | Finished | Alpha Centauri |
-| Orrion | Finished | Teide 1 |
+| Orrion | Finished | No analogue |
 | Noren | Finished | Upsilon Andromedae |
 | Keppe| Finished | Trappist 1 |
 | Swarch | Finished |  No analogue | 
@@ -75,7 +75,7 @@ Expansions based off of movies, books or even past concepts I had.
 |  System  | State | Analogue |
 | - | ------------------------- | ------------------------- |
 |  Kau Ceti | Finished | Tau Ceti |
-| 40 Keridani | Finished | Epsilon Eridani |  
+| 40 Keridani | Finished | 40 Eridani |  
   
 **Kerbol Outer Planets**
 |  System  | State | Analogue |
