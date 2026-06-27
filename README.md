@@ -136,4 +136,4 @@ This is my first mod. If you have any feedback, please feel free to share it wit
 
 Thank you for playing and enjoying my mod!
 
-[Wiki](https://github.com/tohkm22-del/Stellar-Systems/wiki/Stellar-Systems-Wiki)
+[Wiki](https://github.com/tohkm22-del/Stellar-Systems/wiki/Home)
