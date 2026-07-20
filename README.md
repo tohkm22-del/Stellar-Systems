@@ -47,7 +47,7 @@ There are a wide range of systems, like a cramped red dwarf system, a massive bi
 **Project Hail Mary Expansion**  
 |  System  | Overview |
 | - | - |
-|  Kau Ceti | A small system with a large green planet, uhh, are we talking about Jool? |
+|  Kau Ceti | A small system with a large green planet. |
 | 40 Keridani | A K-type star with a massive blue planet, there seems to be some sort of thing sticking out of it. Interesting. |  
 
 **Kerbol Outer Planets**  
@@ -91,10 +91,7 @@ There are full science definitions written by Serbhit and me. Full volumetric cl
 
 ## The Future
 There will be more systems, with many more exotic worlds to explore.  
-Parallax Continued support will be done in the future, as I average 1-2 fps with my current setup, so it's not feasible right now.
-
-### WIP Systems 
-- There are no WIP systems
+Parallax Continued support will be done in the future, as I average 1-2 fps with my current setup, so it's not feasible right now.  
 
 ## Installation
 Download and unzip Stellar Systems, take Stellar Systems out of the GameData folder, and drag and drop it into your KSP GameData.  
