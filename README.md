@@ -2,35 +2,50 @@
 
 <sup>Made by @RatchetKSP</sup>  
 
-# Stellar Systems-V2.0.2
-Stellar Systems is a large-scale, unrealistic to semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 8 systems with all being complete.  
+<div align="center">
+    <a href="https://github.com/tohkm22-del/Stellar-Systems/releases/latest">
+    <img src="https://img.shields.io/github/v/release/tohkm22-del/Stellar-Systems?style=for-the-badge&logo=github&logoColor=white&label=Release&labelColor=181717&color=4DC820" alt="Latest KSS2 Release">
+  <a href="https://github.com/tohkm22-del/Stellar-Systems/releases">
+    <img src="https://img.shields.io/github/downloads/tohkm22-del/Stellar-Systems/total?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0B9E9A" alt="Total Downloads">  
 
-## License
-[![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+<div align="center">  
+  
+### Creative Concepts - Stunning Visuals - Alien Worlds  
 
-
-[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
-[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
-CC BY-NC-ND 4.0   
-(Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License)  
-
-## Pictures
-|<img width="500" height="281" alt="Screenshot 2026-03-17 204040" src="https://github.com/user-attachments/assets/b32b00f4-05af-4ff6-92ae-72717c3395fd" /> | <img width="500" height="281" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> 
-|:--:|:--:|
-|<sup>Gevlo seen up close</sup>|<sup>Heloon</sup> |
-
-| <img width="500" height="281" alt="Kaas" src="https://github.com/user-attachments/assets/77ad77b5-5431-42fc-8e0e-f6873d45ad97" /> | <img width="500" height="281" alt="Kunrau" src="https://github.com/user-attachments/assets/3d7cafa4-30fe-48e2-8dbb-c626420d4521" /> |
-|:--:|:--:|
-|<sup>Kaas and it's moons Vosk and Contriax</sup>|<sup>Kunrau</sup> |  
-
-<sup>*More pictures in my Discord server</sup>
+Stellar Systems is a creative, modular planet pack that adds a multitude of systems and worlds to explore.  
 
 ## Systems
-There are a wide range of systems, like a cramped red dwarf system, a massive binary star system and even a black hole! 
+There is a wide range of systems, like a cramped red dwarf system, a massive binary star system, and even a black hole! 
+
+### Base Systems
+Original systems made by me.
+|  System  | State | Analogue |
+| - | - | - |
+|  Rast | Finished | No analogue |
+| Xeroon | Finished | Alpha Centauri |
+| Orrion | Finished | No analogue |
+| Noren | Finished | Upsilon Andromedae |
+| Keppe| Finished | Trappist 1 |
+| Swarch | Finished |  No analogue | 
+
+### Expansions
+Expansions based on movies, books, or even past concepts I had.  
+
+**Project Hail Mary Expansion**
+|  System  | State | Analogue |
+| - | ------------------------- | ------------------------- |
+|  Kau Ceti | Finished | Tau Ceti |
+| 40 Keridani | Finished | 40 Eridani |  
+  
+**Kerbol Outer Planets**
+|  System  | State | Analogue |
+| - | ------------------------- | ------------------------- |
+| Kerbol Outer Planets | Not released | Our solar system |  
 
 <details>
+<summary><strong>Learn More</strong></summary>
 
-<summary> System Overviews </summary>
+<br>
 
 ### Base Systems
 |  System  | Overview |
@@ -53,41 +68,22 @@ There are a wide range of systems, like a cramped red dwarf system, a massive bi
 **Kerbol Outer Planets**  
 |  System  | Overview |
 | - | - |
-| Kerbol Outer Planets | A unique set of outer planets, that are nothing like ours. |
+| Kerbol Outer Planets | A unique set of outer planets that are nothing like ours. |
 
 </details>
 
-### Base Systems
-Original systems made by me.
-|  System  | State | Analogue |
-| - | - | - |
-|  Rast | Finished | No analogue |
-| Xeroon | Finished | Alpha Centauri |
-| Orrion | Finished | No analogue |
-| Noren | Finished | Upsilon Andromedae |
-| Keppe| Finished | Trappist 1 |
-| Swarch | Finished |  No analogue | 
+<br>
 
-### Expansions
-Expansions based off of movies, books or even past concepts I had.  
+## Pictures
+|<img width="500" height="281" alt="Screenshot 2026-03-17 204040" src="https://github.com/user-attachments/assets/b32b00f4-05af-4ff6-92ae-72717c3395fd" /> | <img width="500" height="281" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> 
+|:--:|:--:|
+|<sup>Gevlo seen up close</sup>|<sup>Heloon</sup> |
 
-**Project Hail Mary Expansion**
-|  System  | State | Analogue |
-| - | ------------------------- | ------------------------- |
-|  Kau Ceti | Finished | Tau Ceti |
-| 40 Keridani | Finished | 40 Eridani |  
-  
-**Kerbol Outer Planets**
-|  System  | State | Analogue |
-| - | ------------------------- | ------------------------- |
-| Kerbol Outer Planets | Not released | Our solar system |
+| <img width="500" height="281" alt="Kaas" src="https://github.com/user-attachments/assets/77ad77b5-5431-42fc-8e0e-f6873d45ad97" /> | <img width="500" height="281" alt="Kunrau" src="https://github.com/user-attachments/assets/3d7cafa4-30fe-48e2-8dbb-c626420d4521" /> |
+|:--:|:--:|
+|<sup>Kaas and it's moons Vosk and Contriax</sup>|<sup>Kunrau</sup> |  
 
-## Issues
-I'm not sure if Stellar Systems conflicts with mods like Promised Worlds, or Kcalbeloh. If it does conflict, please tell me here on [Discord](https://discord.gg/TmGTPuBZdC)
-If there are any other issue report them to me, thank you!
-
-## What Is Included
-There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles along with volumetirc auroras and rings (credit to @TheSpacePotato).
+<sup>*More pictures in my Discord server</sup>
 
 ## The Future
 There will be more systems, with many more exotic worlds to explore.  
@@ -126,11 +122,3 @@ Download and unzip Stellar Systems, take Stellar Systems out of the GameData fol
 | [FireFly](https://github.com/M1rageDev/Firefly/releases) | Adds new re-entry flames
 |  [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases/tag/0.2.6.6) | Reflected glow off of planets or moons
 | [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) | Allows planets and craft to be viewable at a realistic distance
-
-## Extra
-All textures made in GIMP.  
-This is my first mod. If you have any feedback, please feel free to share it with me.  
-
-Thank you for playing and enjoying my mod!
-
-[Wiki](https://github.com/tohkm22-del/Stellar-Systems/wiki/Home)
