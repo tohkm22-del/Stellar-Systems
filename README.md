@@ -17,30 +17,38 @@ Stellar Systems is a creative, modular planet pack that adds a multitude of syst
 ## Systems
 There is a wide range of systems, like a cramped red dwarf system, a massive binary star system, and even a black hole! 
 
-### Base Systems
-Original systems made by me.
-|  System  | State | Analogue |
-| - | - | - |
-|  Rast | Finished | No analogue |
-| Xeroon | Finished | Alpha Centauri |
-| Orrion | Finished | No analogue |
-| Noren | Finished | Upsilon Andromedae |
-| Keppe| Finished | Trappist 1 |
-| Swarch | Finished |  No analogue | 
+### Alien Systems
+|  System | Inspiration |
+| - | - |
+|  Rast | No analogue |
+| Xeroon | Alpha Centauri |
+| Orrion | No analogue |
+| Noren | Upsilon Andromedae |
+| Keppe | Trappist 1 |
+| Swarch |  No analogue | 
 
-### Expansions
-Expansions based on movies, books, or even past concepts I had.  
+### Stunning Expansions
 
 **Project Hail Mary Expansion**
-|  System  | State | Analogue |
-| - | ------------------------- | ------------------------- |
-|  Kau Ceti | Finished | Tau Ceti |
-| 40 Keridani | Finished | 40 Eridani |  
+|  System | Inspiration |
+| -  | ------------------------- |
+|  Kau Ceti | Tau Ceti |
+| 40 Keridani | 40 Eridani |  
   
 **Kerbol Outer Planets**
-|  System  | State | Analogue |
-| - | ------------------------- | ------------------------- |
-| Kerbol Outer Planets | Not released | Our solar system |  
+|  System | Inspiration |
+| -  | ------------------------- |
+| Kerbol Outer Planets | Our solar system |  
+
+|<img width="500" height="281" alt="Screenshot 2026-03-17 204040" src="https://github.com/user-attachments/assets/b32b00f4-05af-4ff6-92ae-72717c3395fd" /> | <img width="500" height="281" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> 
+|:--:|:--:|
+|<sup>Gevlo and its mystical green surface</sup>|<sup>The teal Heloon surrounded by stars</sup> |
+
+| <img width="500" height="281" alt="Ruub" src="https://github.com/user-attachments/assets/3b9f922a-4ccb-4499-b6c3-bdfe6038d4b3" /> | <img width="500" height="281" alt="Adrian" src="https://github.com/user-attachments/assets/d02d710e-3e49-49f7-84c5-351e7ad968c3" /> |
+|:--:|:--:|
+|<sup>Ruub the magnificent pink planet</sup>|<sup>The green, swirly Adrian</sup> |  
+
+<sup>*More pictures in my Discord server</sup>
 
 <details>
 <summary><strong>Learn More</strong></summary>
@@ -50,12 +58,12 @@ Expansions based on movies, books, or even past concepts I had.
 ### Base Systems
 |  System  | Overview |
 | - | - |
-|  Rast | A decent system, containing a Kerbin-like planet, hellish planets much larger than any other rocky planets out there, and even salty iron moons. All of this, at only 2KLY! |
-| Xeroon | A massive B x K-type binary system. Containing large Duna's, mini Jools, along with massive icy planets. |
-| Orrion | A small pink brown dwarf, with a deadly spore planet, and some others. |
-| Noren | A decently sized system made of just gas and ice giants! And some icy and toxic moons |
-| Keppe | A tightly packed red dwarf system. Having unusual gas planets, hot desert worlds, and massive geysers coming out of the ground! |
-| Swarch | A gigantic black hole! That has a, um... a meth planet! |  
+|  Rast | A decent system, containing a Kerbin-like planet, hellish planets much larger than any<br/> other rocky planets out there, and even salty iron moons. All of this, at only 2KLY! |
+| Xeroon | A massive B+K-type binary system. Containing<br/> large Dunas, mini Jools, and massive icy planets. |
+| Orrion | A small pink brown dwarf, with a<br/> deadly spore planet, and some others. |
+| Noren | A decently sized system made of just<br/> gas and ice giants! And some icy and toxic moons |
+| Keppe | A tightly packed red dwarf system. Having unusual gas planets,<br/> hot desert worlds, and massive geysers coming out of the ground! |
+| Swarch | A gigantic black hole! That has a unique irradiated planet  |  
 
 ### Expansions  
 
@@ -63,31 +71,22 @@ Expansions based on movies, books, or even past concepts I had.
 |  System  | Overview |
 | - | - |
 |  Kau Ceti | A small system with a large green planet. |
-| 40 Keridani | A K-type star with a massive blue planet, there seems to be some sort of thing sticking out of it. Interesting. |  
+| 40 Keridani | A K-type star with a massive blue planet. |  
 
 **Kerbol Outer Planets**  
 |  System  | Overview |
 | - | - |
-| Kerbol Outer Planets | A unique set of outer planets that are nothing like ours. |
+| Kerbol Outer Planets | A unique set of outer planets<br/> that are nothing like ours.|
 
 </details>
 
 <br>
 
-## Pictures
-|<img width="500" height="281" alt="Screenshot 2026-03-17 204040" src="https://github.com/user-attachments/assets/b32b00f4-05af-4ff6-92ae-72717c3395fd" /> | <img width="500" height="281" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> 
-|:--:|:--:|
-|<sup>Gevlo seen up close</sup>|<sup>Heloon</sup> |
-
-| <img width="500" height="281" alt="Kaas" src="https://github.com/user-attachments/assets/77ad77b5-5431-42fc-8e0e-f6873d45ad97" /> | <img width="500" height="281" alt="Kunrau" src="https://github.com/user-attachments/assets/3d7cafa4-30fe-48e2-8dbb-c626420d4521" /> |
-|:--:|:--:|
-|<sup>Kaas and it's moons Vosk and Contriax</sup>|<sup>Kunrau</sup> |  
-
-<sup>*More pictures in my Discord server</sup>
-
-## The Future
-There will be more systems, with many more exotic worlds to explore.  
-Parallax Continued support will be done in the future, as I average 1-2 fps with my current setup, so it's not feasible right now.  
+## Planned Systems  
+| In-Dev | Planned |
+| - | - |
+| 40 Keridani. A large 3-star system, spanning multiple different alien environments. | Kau Ceti. A small system with 5-6 rocky planets. |
+| Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. | Amaterasu. A suggestion system made by @AcidicPancakeS. |
 
 ## Installation
 Download and unzip Stellar Systems, take Stellar Systems out of the GameData folder, and drag and drop it into your KSP GameData.  
