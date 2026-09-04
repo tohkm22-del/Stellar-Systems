@@ -203,4 +203,4 @@ The CC BY-NC-ND 4.0 permits you to share Stellar Systems with anyone, as long as
 
 > [!IMPORTANT]
 > ### AI Notice
->No Generative AI was used in the making of Stellar Systems. The only AI used was Grammarly's proofreader.
+>No Generative AI was used in any stage of the process, from config making to texture producing; absolutely no AI was used in any capacity. 
