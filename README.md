@@ -1,6 +1,8 @@
 <img width="1000" height="563" alt="StellarSystems" src="https://github.com/user-attachments/assets/66cc5211-0e06-46d7-a0a1-dbe8c9a36700" />
 
-<sup>Made by @RatchetKSP</sup> 
+<sup>Made by @RatchetKSP</sup>  
+
+---
 
 <p align="center">
     <a href="https://github.com/tohkm22-del/Stellar-Systems/releases/latest">
@@ -67,17 +69,14 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 
 <br>
 
-### Base Systems
 |  System  | Overview |
 | - | - |
 | Rast | A decent system, containing a Kerbin-like planet, hellish planets much larger than any<br/> other rocky planets out there, and even salty iron moons. |
 | Xeroon | A massive B-type + K-type binary system. Containing<br/> large Dunas, mini Jools, and massive icy planets. |
-| Orrion | A small pink brown dwarf, with a<br/> deadly spore planet, and some others. |
+| Orrion | A small pink brown dwarf, with a<br/> deadly spore planet, and some other planets. |
 | Noren | A decently sized system made of just<br/> gas and ice giants! And some icy and toxic moons |
 | Keppe | A tightly packed red dwarf system. Having unusual gas planets,<br/> hot desert worlds, and massive geysers coming out of the ground! |
 | Swarch | A gigantic black hole! That has a unique irradiated planet  |  
-
-### Expansions  
 
 **Project Hail Mary Expansion**  
 |  System  | Overview |
@@ -88,7 +87,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 **Kerbol Outer Planets**  
 |  System  | Overview |
 | - | - |
-| Kerbol Outer Planets | A unique set of outer planets<br/> that are nothing like ours.|  
+| Kerbol Outer Planets | A unique set of outer planets that<br/> are nothing like ours.|  
 
 ---
 
@@ -124,9 +123,9 @@ All in-development and planned systems and expansions.
 
 ### Experimental ideas
 
-| Ideas |
-|-|
-| A dead pulsar with small irradiated planets |  
+| May be implemented | May not be implemented |
+|-|-|
+| A small pulsar with small irradiated planets |  A K-type star with 1-2 planets, one of them being a ultra-habitable mega-Kerbin |
 
 ---
 
@@ -177,6 +176,30 @@ Download and unzip Stellar Systems, take Stellar Systems out of the GameData fol
 | [FireFly](https://github.com/M1rageDev/Firefly/releases) | Adds new re-entry flames
 |  [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases/tag/0.2.6.6) | Reflected glow off of planets or moons
 | [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) | Allows planets and craft to be viewable at a realistic distance  
+
+---
+
+## License  
+Stellar Systems uses the **CC BY-NC-ND 4.0** license to protect all original, handmade assets, textures, and configs.  
+
+<details>
+<summary><strong>Do's and Dont's</strong></summary>
+
+<br>  
+The CC BY-NC-ND 4.0 permits you to share Stellar Systems with anyone, as long as you provide attribution to Mystery Goo Drinker, use it for non-commercial purposes, and you do not release any edited version without explicit permission from Mystery Goo Drinker.  
+
+| Do's | Dont's |
+|-|-|
+| ### You can: | ### You cannot: |
+| Share **with attribution** given | **Present** Stellar Systems **as your own work** |
+| Create videos, streams, screenshots, etc |  **Use** assets from Stellar Systems **elsewhere without permission** |
+| Make **private modifications** | Share **modified versions** **without permission** |
+
+</details>
+
+<br>
+
+---
 
 > [!IMPORTANT]
 > ### AI Notice
