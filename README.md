@@ -18,8 +18,12 @@ Stellar Systems is a creative, modular planet pack that adds a multitude of syst
 
 ---
 
+## Why Explore?  
+
+Exploring planets and moons in KSP
+
 ## Systems
-There is a wide range of systems, like a cramped red dwarf system, a massive binary star system, and even a black hole! 
+The systems in Stellar Systems range from cramped red dwarfs to spread-out binary stars, and even dying stars.
 
 ### Alien Systems
 |  System | Inspiration |
@@ -82,7 +86,7 @@ There is a wide range of systems, like a cramped red dwarf system, a massive bin
 
 ---
 
-| <img width="500" height="281" alt="Ruub" src="https://github.com/user-attachments/assets/3b9f922a-4ccb-4499-b6c3-bdfe6038d4b3" /> | <img width="500" height="281" alt="Adrian" src="https://github.com/user-attachments/assets/d02d710e-3e49-49f7-84c5-351e7ad968c3" /> |
+| <img width="500" height="281" alt="Ruub" src="httpachievedub.com/user-attachments/assets/3b9f922a-4ccb-4499-b6c3-bdfe6038d4b3" /> | <img width="500" height="281" alt="Adrian" src="https://github.com/user-attachments/assets/d02d710e-3e49-49f7-84c5-351e7ad968c3" /> |
 |:--:|:--:|
 |<sup>Ruub the magnificent pink planet</sup>|<sup>The green, swirly Adrian</sup> |  
 
@@ -95,26 +99,34 @@ There is a wide range of systems, like a cramped red dwarf system, a massive bin
 ---
 
 ## Roadmap  
-The future for Stellar Systems will be an everchanging and creative mod.  
-I have not set any end date to Stellar Systems as it may never end, or it may in 2-3 years time.  
+The future for Stellar Systems will be an ever-changing and creative mod.  
+I have not set any end date for Stellar Systems as it may never end, or it may in 2-3 years' time.  
 
-Currentely the next update, V3.0.0 will be the biggest update to Stellar Systems and any planet pack in general.
-| My goals |
-|-|
-| Increase quality |
-| Quality over quantity |
-| Iron out bugs |  
+The next update, V3.0.0, will be the biggest update to Stellar Systems and any planet pack in general.
 
-I would say I have achivied 2/3 of those goals, as I have yet to bug test Stellar Systems V3.0.0.
-
-### Planned Systems  
+### In-Dev and Planned Systems  
 All in-development and planned systems and expansions.  
 | In-Dev | Planned |
 | - | - |
+| Kulran AB. A small binary brown dwarf system, hosting many carbon-rich planets. | | 
 | 40 Keridani. A large 3-star system, spanning multiple different alien environments. | Kau Ceti. A small system with 5-6 rocky planets. |
-| Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. | Amaterasu. A suggestion system made by @AcidicPancakeS. |  
+| Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. | Amaterasu. A suggestion system made by @AcidicPancakes. |
 
-###### I have a lot of free time, so each update can contain vast amount of<br/> content while keeping the same quality as other planet packs.
+###### I have a lot of free time, so each update can contain a vast amount of<br/> content while keeping the same quality as other planet packs.
+
+### Experimental ideas
+
+| Ideas |
+|-|
+| A dead pulsar with a a small |
+
+---
+
+### Socials
+| Forums | Youtube | Discord | Github |
+|-|-|-|-|
+| [Forums](https://forum.kerbalspaceprogram.com/profile/238985-mysterygoodrinker) | [Youtube](https://www.youtube.com/@Goo_isMystery) | [Discord](https://discord.gg/7gJw6GxX) | [Github](https://github.com/tohkm22-del)
+| Forum page for Stellar Systems, and occasional development showcases are shown here. | Visual demonstrations and showcases are shared here. | All development and updates are shared here. Contributing to Stellar Systems starts here. | Main page for downloading Stellar Systems and other mods. |  
 
 ---
 
@@ -150,4 +162,8 @@ Download and unzip Stellar Systems, take Stellar Systems out of the GameData fol
 | [Scatterer](https://github.com/LGhassen/Scatterer/releases) | Improves atmospheric scattering
 | [FireFly](https://github.com/M1rageDev/Firefly/releases) | Adds new re-entry flames
 |  [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases/tag/0.2.6.6) | Reflected glow off of planets or moons
-| [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) | Allows planets and craft to be viewable at a realistic distance
+| [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) | Allows planets and craft to be viewable at a realistic distance  
+
+> [!IMPORTANT]
+> ### AI Notice
+>No Generative AI was used in the making of Stellar Systems. The only AI used was Grammarly's proofreader.
