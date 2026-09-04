@@ -125,6 +125,21 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 
 ---
 
+## Installation  
+To download Stellar Systems, click [here](https://github.com/tohkm22-del/Stellar-Systems/releases).  
+
+To find the Installation page, click [here](https://github.com/tohkm22-del/Stellar-Systems/wiki/Installation).  
+
+---
+
+| <img width="500" height="281" alt="Screenshot 2026-09-01 183829" src="https://github.com/user-attachments/assets/e49ca7aa-ae02-4f98-919f-b62eeba3b6db" /> | <img width="500" height="281" alt="Screenshot 2026-09-01 151357" src="https://github.com/user-attachments/assets/56ddd3f4-f526-4c0c-8e93-894b1001cfed" /> |
+|-| - |
+| <sup>Tethos, the moon of Gargant, the 5th and largest planet of Soven</sup> | <sup>Esael, the moon of Reve the 6th planet of Soven</sup> |  
+
+Happy exploring!
+
+---
+
 ## Roadmap  
 The future for Stellar Systems will be an ever-changing and creative mod.  
 I have not set any end date for Stellar Systems as it may never end, or it may in 2-3 years' time.  
