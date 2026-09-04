@@ -7,8 +7,10 @@
 <p align="center">
     <a href="https://github.com/tohkm22-del/Stellar-Systems/releases/latest">
     <img src="https://img.shields.io/github/v/release/tohkm22-del/Stellar-Systems?style=for-the-badge&logo=github&logoColor=white&label=Release&labelColor=181717&color=4DC820" alt="Latest Stellar Systems Release">
-  <a href="https://github.com/tohkm22-del/Stellar-Systems/releases">
+    <a href="https://github.com/tohkm22-del/Stellar-Systems/releases">
     <img src="https://img.shields.io/github/downloads/tohkm22-del/Stellar-Systems/total?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0B9E9A" alt="Total Downloads"> 
+    <a href="github.com/tohkm22-del/Stellar-Systems#license">
+    <img src="https://img.shields.io/badge/License-CC%20BY%20NC%20ND-E24329?style=for-the-badge&logo=creativecommons&logoColor=white&labelColor=181717" alt="CC-BY-NC-ND">
 </p>
 
 <div align="center">
