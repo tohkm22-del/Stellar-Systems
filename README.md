@@ -13,17 +13,23 @@
 
 ### Creative Concepts - Stunning Visuals - Alien Worlds  
 
-Stellar Systems is a creative, modular planet pack that adds a multitude of systems and worlds to explore.
-</div>
+Stellar Systems is a creative, modular planet pack that adds a multitude of systems and worlds to explore.  
+
+###### THINK DIFFERENTLY · EXPLORE DIFFERENTLY · CRASH DIFFERENTLY  
+</div>  
 
 ---
 
 ## Why Explore?  
 
-Exploring planets and moons in KSP
+Exploring planets and moons in KSP is one of the best things to do, so why not do it around different stars? Discovering new planets and features is part of what makes KSP so different from other games. Stellar Systems aims to contribute to that difference.  
+Making new ship designs, finding new creative ways to build your ships to suit the environments of each planet is what lights up a spark of creativity.  
+Exploring KSP and leaving the confines of the Kerbol system is what opens up an entirely different world of possibilities.
 
-## Systems
-The systems in Stellar Systems range from cramped red dwarfs to spread-out binary stars, and even dying stars.
+---
+
+## What's Included?
+Stellar Systems is a modular planet pack that allows you to choose how big your interstellar universe is. Stellar Systems includes 8 systems with over 40 planets, offering a vast amount of content to explore.
 
 ### Alien Systems
 |  System | Inspiration |
@@ -64,8 +70,8 @@ The systems in Stellar Systems range from cramped red dwarfs to spread-out binar
 ### Base Systems
 |  System  | Overview |
 | - | - |
-|  Rast | A decent system, containing a Kerbin-like planet, hellish planets much larger than any<br/> other rocky planets out there, and even salty iron moons. All of this, at only 2KLY! |
-| Xeroon | A massive B+K-type binary system. Containing<br/> large Dunas, mini Jools, and massive icy planets. |
+| Rast | A decent system, containing a Kerbin-like planet, hellish planets much larger than any<br/> other rocky planets out there, and even salty iron moons. |
+| Xeroon | A massive B-type + K-type binary system. Containing<br/> large Dunas, mini Jools, and massive icy planets. |
 | Orrion | A small pink brown dwarf, with a<br/> deadly spore planet, and some others. |
 | Noren | A decently sized system made of just<br/> gas and ice giants! And some icy and toxic moons |
 | Keppe | A tightly packed red dwarf system. Having unusual gas planets,<br/> hot desert worlds, and massive geysers coming out of the ground! |
@@ -77,7 +83,7 @@ The systems in Stellar Systems range from cramped red dwarfs to spread-out binar
 |  System  | Overview |
 | - | - |
 |  Kau Ceti | A small system with a large green planet. |
-| 40 Keridani | A K-type star with a massive blue planet. |  
+| 40 Keridani | A small K-type star with a massive blue planet. |  
 
 **Kerbol Outer Planets**  
 |  System  | Overview |
@@ -86,11 +92,13 @@ The systems in Stellar Systems range from cramped red dwarfs to spread-out binar
 
 ---
 
-| <img width="500" height="281" alt="Ruub" src="httpachievedub.com/user-attachments/assets/3b9f922a-4ccb-4499-b6c3-bdfe6038d4b3" /> | <img width="500" height="281" alt="Adrian" src="https://github.com/user-attachments/assets/d02d710e-3e49-49f7-84c5-351e7ad968c3" /> |
+| <img width="500" height="281" alt="Ruub" src="https://github.com/user-attachments/assets/7ac82daa-66fb-43ad-983d-3a68ce22190b" /> | <img width="500" height="281" alt="Adrian" src="https://github.com/user-attachments/assets/d02d710e-3e49-49f7-84c5-351e7ad968c3" /> |
 |:--:|:--:|
 |<sup>Ruub the magnificent pink planet</sup>|<sup>The green, swirly Adrian</sup> |  
 
-<sup>*More pictures in my Discord server</sup>
+<sup>*More pictures in my Discord server</sup>  
+
+###### To learn even further, give the [wiki](https://github.com/tohkm22-del/Stellar-Systems/wiki) a visit.
 
 </details>
 
@@ -118,7 +126,13 @@ All in-development and planned systems and expansions.
 
 | Ideas |
 |-|
-| A dead pulsar with a a small |
+| A dead pulsar with small irradiated planets |  
+
+---
+
+| <img width="500" height="281" alt="Screenshot 2026-09-01 150228" src="https://github.com/user-attachments/assets/9653e107-83f0-4ccd-93f7-a930e8d40ad5" /> | <img width="500" height="281" alt="Screenshot 2026-09-03 212644" src="https://github.com/user-attachments/assets/b3615cc3-99a4-4fd4-ad89-1caf46d3efaf" /> |
+|-|-|
+| Reve the 6th planet of Soven, as seen from Esael | The surface of Sylon, the mini-Eve around 40 Keridani A |
 
 ---
 
