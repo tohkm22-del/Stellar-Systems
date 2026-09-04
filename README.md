@@ -2,7 +2,12 @@
 
 >Made by @RatchetKSP
 
----
+---  
+
+<div align="center">
+
+###### ALWAYS CHANGING · ALWAYS FRESH · ALWAYS NEW
+</div>  
 
 <p align="center">
     <a href="https://github.com/tohkm22-del/Stellar-Systems/releases/latest">
@@ -27,7 +32,7 @@ Stellar Systems is a creative, modular planet pack that adds a multitude of syst
 ## Why explore?  
 
 Exploring planets and moons in KSP is one of the best things to do, so why not do it around different stars? Discovering new planets and features is part of what makes KSP so different from other games. Stellar Systems aims to contribute to that difference.  
-Making new ship designs, finding new creative ways to build your ships to suit the environments of each planet is what lights up a spark of creativity. Exploring KSP and leaving the confines of the Kerbol system is what opens up an entirely different world of possibilities.
+Making new ship designs, finding new creative ways to build your ships to suit the environments of each planet is what lights up a spark of creativity. Exploring KSP and leaving the confines of the Kerbol system is what opens up an entirely different world of possibilities.  
 
 ---
 
