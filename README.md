@@ -190,9 +190,11 @@ The CC BY-NC-ND 4.0 permits you to share Stellar Systems with anyone, as long as
 
 ## Thanks to  
 Thanks to the numerous people who have helped me in my journey from making my first planets to today, since October of 2025.  
-Specific people I want to send a thank-you to are:
+Specific people I want to send a thank-you to are:  
+
 · Serbhit, for writing the entirety of Noren's science definitions.  
 · Ratchet, the Stellar Systems graphic designer, who is the one who made the Stellar Systems logo and many system maps.  
+
 From the bottom of my heart, my love goes out to you and to the entire Kopernicus Discord server, because without you, I would not be here.
 
 ---
