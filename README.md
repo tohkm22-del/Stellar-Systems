@@ -79,8 +79,6 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 |:--:|:--:|
 |<sup>Gevlo and its mystical green surface</sup>|<sup>The teal Heloon surrounded by stars</sup> |
 
->More pictures in my Discord server
-
 <details>
 <summary><strong>Learn More</strong></summary>
 
@@ -112,8 +110,6 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 |:--:|:--:|
 |<sup>Ruub the magnificent pink planet</sup>|<sup>The green, swirly Adrian</sup> |  
 
->More pictures in my Discord server
-
 ###### To learn even further, give the [wiki](https://github.com/tohkm22-del/Stellar-Systems/wiki) a visit.
 
 </details>
@@ -142,7 +138,9 @@ All in-development and planned systems and expansions.
 
 | May be implemented | May not be implemented |
 |-|-|
-| A small pulsar with small irradiated planets |  A K-type star with 1-2 planets, one of them being a ultra-habitable mega-Kerbin |
+| A small pulsar with small irradiated planets |  A K-type star with 1-2 planets, one of them being a ultra-habitable mega-Kerbin |  
+
+###### Experimental means ideas that I may add, but have not been worked on whatsoever.
 
 ---
 
@@ -179,10 +177,28 @@ The CC BY-NC-ND 4.0 permits you to share Stellar Systems with anyone, as long as
 
 </details>
 
-<br>
+<br>  
+
+---
+
+## Thanks to  
+Thanks to the numerous people who have helped me in my journey from making my first planets to today, since October of 2025.  
+Specific people I want to send a thank-you to are:
+· Serbhit, for writing the entirety of Noren's science definitions.  
+· Ratchet, the Stellar Systems graphic designer, who is the one who made the Stellar Systems logo and many system maps.  
+From the bottom of my heart, my love goes out to you and to the entire Kopernicus Discord server, because without you, I would not be here.
 
 ---
 
 > [!IMPORTANT]
 > ### AI Notice
->No Generative AI was used in any stage of the process, from config making to texture producing; absolutely no AI was used in any capacity. AI such as Claude, Copilot, or generative fills such as Photoshop were **not** used.
+>No Generative AI was used in any stage of the process, from config making to texture producing; absolutely no AI was used in any capacity. AI such as Claude, Copilot, or generative fills such as Photoshop were **not** used.  
+
+---
+
+<div align="center">  
+    
+###### From exploring Kerbin and setting foot on the Mun to exploring interstellar worlds and setting foot on alien worlds.  
+
+**Stellar Systems is for the bold.**
+</div>  
