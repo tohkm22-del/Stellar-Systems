@@ -1,12 +1,12 @@
 <img width="1000" height="563" alt="StellarSystems" src="https://github.com/user-attachments/assets/66cc5211-0e06-46d7-a0a1-dbe8c9a36700" />
 
-<sup>Made by @RatchetKSP</sup>  
+>Made by @RatchetKSP
 
 ---
 
 <p align="center">
     <a href="https://github.com/tohkm22-del/Stellar-Systems/releases/latest">
-    <img src="https://img.shields.io/github/v/release/tohkm22-del/Stellar-Systems?style=for-the-badge&logo=github&logoColor=white&label=Release&labelColor=181717&color=4DC820" alt="Latest KSS2 Release">
+    <img src="https://img.shields.io/github/v/release/tohkm22-del/Stellar-Systems?style=for-the-badge&logo=github&logoColor=white&label=Release&labelColor=181717&color=4DC820" alt="Latest Stellar Systems Release">
   <a href="https://github.com/tohkm22-del/Stellar-Systems/releases">
     <img src="https://img.shields.io/github/downloads/tohkm22-del/Stellar-Systems/total?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0B9E9A" alt="Total Downloads"> 
 </p>
@@ -29,6 +29,8 @@ Making new ship designs, finding new creative ways to build your ships to suit t
 Exploring KSP and leaving the confines of the Kerbol system is what opens up an entirely different world of possibilities.
 
 ---
+
+Made for Modern KSP  
 
 ## What's Included?
 Stellar Systems is a modular planet pack that allows you to choose how big your interstellar universe is. Stellar Systems includes 8 systems with over 40 planets, offering a vast amount of content to explore.
@@ -62,7 +64,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 |:--:|:--:|
 |<sup>Gevlo and its mystical green surface</sup>|<sup>The teal Heloon surrounded by stars</sup> |
 
-<sup>*More pictures in my Discord server</sup>
+>*More pictures in my Discord server
 
 <details>
 <summary><strong>Learn More</strong></summary>
@@ -95,7 +97,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 |:--:|:--:|
 |<sup>Ruub the magnificent pink planet</sup>|<sup>The green, swirly Adrian</sup> |  
 
-<sup>*More pictures in my Discord server</sup>  
+>*More pictures in my Discord server
 
 ###### To learn even further, give the [wiki](https://github.com/tohkm22-del/Stellar-Systems/wiki) a visit.
 
