@@ -1,18 +1,22 @@
 <img width="1000" height="563" alt="StellarSystems" src="https://github.com/user-attachments/assets/66cc5211-0e06-46d7-a0a1-dbe8c9a36700" />
 
-<sup>Made by @RatchetKSP</sup>  
+<sup>Made by @RatchetKSP</sup> 
 
-<div align="center">
+<p align="center">
     <a href="https://github.com/tohkm22-del/Stellar-Systems/releases/latest">
     <img src="https://img.shields.io/github/v/release/tohkm22-del/Stellar-Systems?style=for-the-badge&logo=github&logoColor=white&label=Release&labelColor=181717&color=4DC820" alt="Latest KSS2 Release">
   <a href="https://github.com/tohkm22-del/Stellar-Systems/releases">
-    <img src="https://img.shields.io/github/downloads/tohkm22-del/Stellar-Systems/total?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0B9E9A" alt="Total Downloads">  
+    <img src="https://img.shields.io/github/downloads/tohkm22-del/Stellar-Systems/total?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0B9E9A" alt="Total Downloads"> 
+</p>
 
-<div align="center">  
-  
+<div align="center">
+
 ### Creative Concepts - Stunning Visuals - Alien Worlds  
 
-Stellar Systems is a creative, modular planet pack that adds a multitude of systems and worlds to explore.  
+Stellar Systems is a creative, modular planet pack that adds a multitude of systems and worlds to explore.
+</div>
+
+---
 
 ## Systems
 There is a wide range of systems, like a cramped red dwarf system, a massive binary star system, and even a black hole! 
@@ -20,12 +24,12 @@ There is a wide range of systems, like a cramped red dwarf system, a massive bin
 ### Alien Systems
 |  System | Inspiration |
 | - | - |
-|  Rast | No analogue |
+|  Rast | No analogue |  
 | Xeroon | Alpha Centauri |
 | Orrion | No analogue |
 | Noren | Upsilon Andromedae |
 | Keppe | Trappist 1 |
-| Swarch |  No analogue | 
+| Swarch | No analogue | 
 
 ### Stunning Expansions
 
@@ -40,13 +44,11 @@ There is a wide range of systems, like a cramped red dwarf system, a massive bin
 | -  | ------------------------- |
 | Kerbol Outer Planets | Our solar system |  
 
+---
+
 |<img width="500" height="281" alt="Screenshot 2026-03-17 204040" src="https://github.com/user-attachments/assets/b32b00f4-05af-4ff6-92ae-72717c3395fd" /> | <img width="500" height="281" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> 
 |:--:|:--:|
 |<sup>Gevlo and its mystical green surface</sup>|<sup>The teal Heloon surrounded by stars</sup> |
-
-| <img width="500" height="281" alt="Ruub" src="https://github.com/user-attachments/assets/3b9f922a-4ccb-4499-b6c3-bdfe6038d4b3" /> | <img width="500" height="281" alt="Adrian" src="https://github.com/user-attachments/assets/d02d710e-3e49-49f7-84c5-351e7ad968c3" /> |
-|:--:|:--:|
-|<sup>Ruub the magnificent pink planet</sup>|<sup>The green, swirly Adrian</sup> |  
 
 <sup>*More pictures in my Discord server</sup>
 
@@ -76,17 +78,45 @@ There is a wide range of systems, like a cramped red dwarf system, a massive bin
 **Kerbol Outer Planets**  
 |  System  | Overview |
 | - | - |
-| Kerbol Outer Planets | A unique set of outer planets<br/> that are nothing like ours.|
+| Kerbol Outer Planets | A unique set of outer planets<br/> that are nothing like ours.|  
+
+---
+
+| <img width="500" height="281" alt="Ruub" src="https://github.com/user-attachments/assets/3b9f922a-4ccb-4499-b6c3-bdfe6038d4b3" /> | <img width="500" height="281" alt="Adrian" src="https://github.com/user-attachments/assets/d02d710e-3e49-49f7-84c5-351e7ad968c3" /> |
+|:--:|:--:|
+|<sup>Ruub the magnificent pink planet</sup>|<sup>The green, swirly Adrian</sup> |  
+
+<sup>*More pictures in my Discord server</sup>
 
 </details>
 
 <br>
 
-## Planned Systems  
+---
+
+## Roadmap  
+The future for Stellar Systems will be an everchanging and creative mod.  
+I have not set any end date to Stellar Systems as it may never end, or it may in 2-3 years time.  
+
+Currentely the next update, V3.0.0 will be the biggest update to Stellar Systems and any planet pack in general.
+| My goals |
+|-|
+| Increase quality |
+| Quality over quantity |
+| Iron out bugs |  
+
+I would say I have achivied 2/3 of those goals, as I have yet to bug test Stellar Systems V3.0.0.
+
+### Planned Systems  
+All in-development and planned systems and expansions.  
 | In-Dev | Planned |
 | - | - |
 | 40 Keridani. A large 3-star system, spanning multiple different alien environments. | Kau Ceti. A small system with 5-6 rocky planets. |
-| Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. | Amaterasu. A suggestion system made by @AcidicPancakeS. |
+| Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. | Amaterasu. A suggestion system made by @AcidicPancakeS. |  
+
+###### I have a lot of free time, so each update can contain vast amount of<br/> content while keeping the same quality as other planet packs.
+
+---
 
 ## Installation
 Download and unzip Stellar Systems, take Stellar Systems out of the GameData folder, and drag and drop it into your KSP GameData.  
