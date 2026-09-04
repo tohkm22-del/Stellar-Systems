@@ -22,20 +22,35 @@ Stellar Systems is a creative, modular planet pack that adds a multitude of syst
 
 ---
 
-## Why Explore?  
+## Why explore?  
 
 Exploring planets and moons in KSP is one of the best things to do, so why not do it around different stars? Discovering new planets and features is part of what makes KSP so different from other games. Stellar Systems aims to contribute to that difference.  
-Making new ship designs, finding new creative ways to build your ships to suit the environments of each planet is what lights up a spark of creativity.  
-Exploring KSP and leaving the confines of the Kerbol system is what opens up an entirely different world of possibilities.
+Making new ship designs, finding new creative ways to build your ships to suit the environments of each planet is what lights up a spark of creativity. Exploring KSP and leaving the confines of the Kerbol system is what opens up an entirely different world of possibilities.
 
 ---
 
-Made for Modern KSP  
+## Made for Modern KSP  
+Stellar Systems is made for the bold and creative player who invents new ways to explore interstellar destinations with impressive spacecraft. Modern KSP players require modern, sleek destinations; Stellar Systems delivers.  
+Stellar Systems is created around having:  
+
+· Complex Volumetric Clouds  
+· Realistic Scatterer atmospheres  
+· Immersive stellar environments  
+· Creative ideas and information behind planets and moons  
+· Detailed planetary textures  
+
+---
+
+| <img width="1917" height="1079" alt="Screenshot 2026-08-06 165119" src="https://github.com/user-attachments/assets/f623306c-a783-45d3-a88c-17915dbb0dd4" /> | <img width="1919" height="1079" alt="Screenshot 2026-07-29 221449" src="https://github.com/user-attachments/assets/0031d551-6d0d-4078-b67d-cd5b0fffb4c2" /> |
+|-|-|
+| <sup>Oren, the gray-yellow gas giant of Soven</sup> | <sup>Velon, the glowing pink dwarf planet of Orrion</sup> |  
+
+---
 
 ## What's Included?
 Stellar Systems is a modular planet pack that allows you to choose how big your interstellar universe is. Stellar Systems includes 8 systems with over 40 planets, offering a vast amount of content to explore.
 
-### Alien Systems
+### Alien systems
 |  System | Inspiration |
 | - | - |
 |  Rast | No analogue |  
@@ -45,7 +60,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 | Keppe | Trappist 1 |
 | Swarch | No analogue | 
 
-### Stunning Expansions
+### Stunning expansions
 
 **Project Hail Mary Expansion**
 |  System | Inspiration |
@@ -64,7 +79,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 |:--:|:--:|
 |<sup>Gevlo and its mystical green surface</sup>|<sup>The teal Heloon surrounded by stars</sup> |
 
->*More pictures in my Discord server
+>More pictures in my Discord server
 
 <details>
 <summary><strong>Learn More</strong></summary>
@@ -97,7 +112,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 |:--:|:--:|
 |<sup>Ruub the magnificent pink planet</sup>|<sup>The green, swirly Adrian</sup> |  
 
->*More pictures in my Discord server
+>More pictures in my Discord server
 
 ###### To learn even further, give the [wiki](https://github.com/tohkm22-del/Stellar-Systems/wiki) a visit.
 
@@ -133,51 +148,15 @@ All in-development and planned systems and expansions.
 
 | <img width="500" height="281" alt="Screenshot 2026-09-01 150228" src="https://github.com/user-attachments/assets/9653e107-83f0-4ccd-93f7-a930e8d40ad5" /> | <img width="500" height="281" alt="Screenshot 2026-09-03 212644" src="https://github.com/user-attachments/assets/b3615cc3-99a4-4fd4-ad89-1caf46d3efaf" /> |
 |-|-|
-| Reve the 6th planet of Soven, as seen from Esael | The surface of Sylon, the mini-Eve around 40 Keridani A |
+| <sup>Reve the 6th planet of Soven, as seen from Esael</sup> | <sup>The surface of Sylon, the mini-Eve around 40 Keridani A</sup> |
 
 ---
 
-### Socials
+## Socials
 | Forums | Youtube | Discord | Github |
 |-|-|-|-|
 | [Forums](https://forum.kerbalspaceprogram.com/profile/238985-mysterygoodrinker) | [Youtube](https://www.youtube.com/@Goo_isMystery) | [Discord](https://discord.gg/7gJw6GxX) | [Github](https://github.com/tohkm22-del)
 | Forum page for Stellar Systems, and occasional development showcases are shown here. | Visual demonstrations and showcases are shared here. | All development and updates are shared here. Contributing to Stellar Systems starts here. | Main page for downloading Stellar Systems and other mods. |  
-
----
-
-## Installation
-Download and unzip Stellar Systems, take Stellar Systems out of the GameData folder, and drag and drop it into your KSP GameData.  
-
-### Dependencies
-|  Mods  | Purpose |
-| ------------------------- | ------------------------- |
-|  [ModuleManager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/) | Loads mods for KSP
-|  [VertexMitchellNetravaliHeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)  | Adds refined Heightmap Algorithms
-|  [VertexColorMapEmissive](https://github.com/jamespglaze/VertexColorMapEmissive)  | Adds planetary emissives
-|  [VertexHeightOblateAdvanced](https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases/tag/1.1.4)  | Allows oblate bodies
-|  [KSPTextureLoader](https://github.com/Phantomical/KSPTextureLoader/releases) | Optimizes texture loading and memory usage
-|  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) | Allows custom systems to be loaded into KSP
-|  [HarmonyKSP](https://github.com/KSPModdingLibs/HarmonyKSP/releases/tag/2.2.1.0) | Kopernicus dependency
-|  [ModularFlightIntegrator](https://forum.kerbalspaceprogram.com/topic/106369-19-modularflightintegrator-127-19-october-2019/) | Kopernicus dependency
-|  [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) | Bugfix pack
-|  [KEX](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases) | Adds wormholes FX
-
-### Extra Mods [Recommended]
-|  Mods  | Purpose |
-| ------------------------- | ------------------------- |
-| [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-LoadingScreens/releases/tag/v0.5.0)| Replaces the stock loading screens with custom ones
-| [Sigma Replacements SkyBox](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1) | Allows for custom skyboxes
-|  [AtmosphereUtilities](https://github.com/plantman-dev/AtmosphereUtilities) | Allows oxygen to be at certain heights/places
-|  [Singularity](https://github.com/LGhassen/Singularity/releases) | New black hole shaders
-
-### Visual Mods [Recommended]
-|  Mods  | Purpose |
-| ------------------------- | ------------------------- |
-| [EVE](https://www.patreon.com/blackrack), Volumetric ONLY!! | Adds dynamic 3D clouds
-| [Scatterer](https://github.com/LGhassen/Scatterer/releases) | Improves atmospheric scattering
-| [FireFly](https://github.com/M1rageDev/Firefly/releases) | Adds new re-entry flames
-|  [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases/tag/0.2.6.6) | Reflected glow off of planets or moons
-| [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) | Allows planets and craft to be viewable at a realistic distance  
 
 ---
 
@@ -192,10 +171,11 @@ The CC BY-NC-ND 4.0 permits you to share Stellar Systems with anyone, as long as
 
 | Do's | Dont's |
 |-|-|
-| ### You can: | ### You cannot: |
+| **You can:** | **You cannot:** |
 | Share **with attribution** given | **Present** Stellar Systems **as your own work** |
 | Create videos, streams, screenshots, etc |  **Use** assets from Stellar Systems **elsewhere without permission** |
-| Make **private modifications** | Share **modified versions** **without permission** |
+| Make **private modifications** | Share **modified versions** **without permission** |  
+>Assets downloaded or bought from third-party sources follow the original author's license.
 
 </details>
 
@@ -205,4 +185,4 @@ The CC BY-NC-ND 4.0 permits you to share Stellar Systems with anyone, as long as
 
 > [!IMPORTANT]
 > ### AI Notice
->No Generative AI was used in any stage of the process, from config making to texture producing; absolutely no AI was used in any capacity. 
+>No Generative AI was used in any stage of the process, from config making to texture producing; absolutely no AI was used in any capacity. AI such as Claude, Copilot, or generative fills such as Photoshop were **not** used.
