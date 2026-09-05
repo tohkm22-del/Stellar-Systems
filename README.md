@@ -93,12 +93,12 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 
 |  System  | Overview |
 | - | - |
-| Rast | A decent system, containing a Kerbin-like planet, hellish planets much larger than any<br/> other rocky planets out there, and even salty iron moons. |
-| Xeroon | A massive B-type + K-type binary system. Containing<br/> large Dunas, mini Jools, and massive icy planets. |
-| Orrion | A small pink brown dwarf, with a<br/> deadly spore planet, and some other planets. |
-| Noren | A decently sized system made of just<br/> gas and ice giants! And some icy and toxic moons |
-| Keppe | A tightly packed red dwarf system. Having unusual gas planets,<br/> hot desert worlds, and massive geysers coming out of the ground! |
-| Swarch | A gigantic black hole! That has a unique irradiated planet  |  
+| Rast | A small, spread-out star system, a good place for your first<br/> interstellar missions. |
+| Xeroon | A large binary star system, hosting multiple unique planets. |
+| Orrion | A small pink brown dwarf, with a small number of planets. |
+| Noren | A small system made up entirely of gas giants. |
+| Keppe | A tightly packed red dwarf system, with a plethora of planets. |
+| Swarch | A gigantic black hole that may have a planet. |  
 
 **Project Hail Mary Expansion**  
 |  System  | Overview |
@@ -109,7 +109,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 **Kerbol Outer Planets**  
 |  System  | Overview |
 | - | - |
-| Kerbol Outer Planets | A unique set of outer planets that<br/> are nothing like ours.|  
+| Kerbol Outer Planets | A unique set of outer planets that are nothing<br/> like ours.|  
 
 ---
 
