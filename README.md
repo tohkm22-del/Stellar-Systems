@@ -46,6 +46,8 @@ Stellar Systems is created around having:
 · Creative ideas and information behind planets and moons  
 · Detailed planetary textures  
 
+###### Parallax Continued is not supported due to limitations with my PC.
+
 ---
 
 | <img width="1917" height="1079" alt="Screenshot 2026-08-06 165119" src="https://github.com/user-attachments/assets/f623306c-a783-45d3-a88c-17915dbb0dd4" /> | <img width="1919" height="1079" alt="Screenshot 2026-07-29 221449" src="https://github.com/user-attachments/assets/0031d551-6d0d-4078-b67d-cd5b0fffb4c2" /> |
@@ -176,7 +178,7 @@ All in-development and planned systems and expansions.
 | Forums | Youtube | Discord | Github |
 |-|-|-|-|
 | [Forums](https://forum.kerbalspaceprogram.com/profile/238985-mysterygoodrinker) | [Youtube](https://www.youtube.com/@Goo_isMystery) | [Discord](https://discord.gg/7gJw6GxX) | [Github](https://github.com/tohkm22-del)
-| Forum page for Stellar Systems, and occasional development showcases are shown here. | Visual demonstrations and showcases are shared here. | All development and updates are shared here. Contributing to Stellar Systems starts here. | Main page for downloading Stellar Systems and other mods. |  
+| Forum page for Stellar Systems, and occasional development showcases here. | Visual demonstrations and showcases are shared here. | All development and updates are shared here. Contributing to Stellar Systems starts here. | Main page for downloading Stellar Systems and other mods. |  
 
 ---
 
@@ -184,14 +186,13 @@ All in-development and planned systems and expansions.
 Stellar Systems uses the **CC BY-NC-ND 4.0** license to protect all original, handmade assets, textures, and configs.  
 
 <details>
-<summary><strong>Do's and Dont's</strong></summary>
+<summary><strong>What is allowed</strong></summary>
 
 <br>  
-The CC BY-NC-ND 4.0 permits you to share Stellar Systems with anyone, as long as you provide attribution to Mystery Goo Drinker, use it for non-commercial purposes, and you do not release any edited version without explicit permission from Mystery Goo Drinker.  
+The CC BY-NC-ND 4.0 license permits you to share Stellar Systems with anyone, as long as you provide attribution to Mystery Goo Drinker, use it for non-commercial purposes, and you do not release any edited version without explicit permission from Mystery Goo Drinker.  
 
-| Do's | Dont's |
+| Allowed: | Not Allowed: |
 |-|-|
-| **You can:** | **You cannot:** |
 | Share **with attribution** given | **Present** Stellar Systems **as your own work** |
 | Create videos, streams, screenshots, etc |  **Use** assets from Stellar Systems **elsewhere without permission** |
 | Make **private modifications** | Share **modified versions** **without permission** |  
