@@ -156,7 +156,7 @@ All in-development and planned systems and expansions.
 | 40 Keridani. A large 3-star system, spanning multiple different alien environments. | Kau Ceti. A small system with 5-6 rocky planets. |
 | Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. | Amaterasu. A suggestion system made by @AcidicPancakes. |
 
-###### I have a lot of free time, so each update can contain a vast amount of<br/> content while keeping the same quality as other planet packs.
+###### I have a lot of free time, so each update can contain a vast amount of content while keeping the same quality as other planet packs.
 
 ### Experimental ideas
 
