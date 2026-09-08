@@ -136,7 +136,7 @@ To find the Installation page, click [here](https://github.com/tohkm22-del/Stell
 
 | <img width="500" height="281" alt="Screenshot 2026-09-01 183829" src="https://github.com/user-attachments/assets/e49ca7aa-ae02-4f98-919f-b62eeba3b6db" /> | <img width="500" height="281" alt="Screenshot 2026-09-01 151357" src="https://github.com/user-attachments/assets/56ddd3f4-f526-4c0c-8e93-894b1001cfed" /> |
 |-| - |
-| <sup>Tethos, the moon of Gargant, the 5th and largest planet of Soven</sup> | <sup>Esael, the moon of Reve the 6th planet of Soven</sup> |  
+| <sup>Tethos, the moon of Gargant, the 5th and largest planet of Soven</sup> | <sup>Esael, the moon of Reve, the 6th planet of Soven</sup> |  
 
 Happy exploring!
 
