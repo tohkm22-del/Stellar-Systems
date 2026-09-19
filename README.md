@@ -32,7 +32,7 @@ Stellar Systems is a creative, modular planet pack that adds a multitude of syst
 ## Why explore?  
 
 Exploring planets and moons in KSP is one of the best things to do, so why not do it around different stars? Discovering new planets and features is part of what makes KSP so different from other games. Stellar Systems aims to contribute to that difference.  
-Making new ship designs, finding new creative ways to build your ships to suit the environments of each planet is what lights up a spark of creativity. Exploring KSP and leaving the confines of the Kerbol system is what opens up an entirely different world of possibilities.  
+Making new ship designs and finding new creative ways to build your ships to suit the environments of each planet is what lights up a spark of creativity. Exploring KSP and leaving the confines of the Kerbol system is what opens up an entirely different world of possibilities.  
 
 ---
 
@@ -177,7 +177,7 @@ All in-development and planned systems and expansions.
 ## Socials
 | Forums | Youtube | Discord | Github |
 |-|-|-|-|
-| [Forums](https://forum.kerbalspaceprogram.com/profile/238985-mysterygoodrinker) | [Youtube](https://www.youtube.com/@Goo_isMystery) | [Discord](https://discord.gg/7gJw6GxX) | [Github](https://github.com/tohkm22-del)
+| [Forums](https://forum.kerbalspaceprogram.com/profile/238985-mysterygoodrinker) | [Youtube](https://www.youtube.com/@Goo_isMystery) | [Discord](https://discord.gg/6YpRmmMRrs) | [Github](https://github.com/tohkm22-del)
 | Forum page for Stellar Systems, and occasional development showcases here. | Visual demonstrations and showcases are shared here. | All development and updates are shared here. Contributing to Stellar Systems starts here. | Main page for downloading Stellar Systems and other mods. |  
 
 ---
@@ -205,7 +205,7 @@ The CC BY-NC-ND 4.0 license permits you to share Stellar Systems with anyone, as
 ---
 
 ## Thanks to  
-Thanks to the numerous people who have helped me in my journey from making my first planets to today, since October of 2025.  
+Thanks to the numerous people who have helped me on my journey from making my first planets to today, since October of 2025.  
 Specific people I want to send a thank-you to are:  
 
 · Serbhit, for writing the entirety of Noren's science definitions.  
