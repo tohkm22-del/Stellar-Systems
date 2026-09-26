@@ -152,6 +152,7 @@ The next update, V3.0.0, will be the biggest update to Stellar Systems and any p
 All in-development and planned systems and expansions.  
 | In-Dev | Planned |
 | - | - |
+| Parallax Continued support. | | 
 | Kulran AB. A small binary brown dwarf system, hosting many carbon-rich planets. | | 
 | 40 Keridani. A large 3-star system, spanning multiple different alien environments. | Kau Ceti. A small system with 5-6 rocky planets. |
 | Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. | Amaterasu. A suggestion system made by @AcidicPancakes. |
