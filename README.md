@@ -70,7 +70,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 | - | - |
 | Kulran | Luhman 16 | 
 |  Rast | No analogue |  
-| Xeroon | Alpha Centauri |
+| Xeroon | No analogue |
 | Orrion | No analogue |
 | Noren | Epsilon Eridani |
 | Kau Ceti | Tau Ceti | 
@@ -80,6 +80,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 | Blikk | PSR B1257+12 (Lich) |
 | Swarch | No analogue | 
 | Swarch Cluster | No analogue | 
+| Orioss AB | Alpha Centauri | 
 
 ### Stunning expansions
 
@@ -113,7 +114,8 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 | Soven | A large, 10-planet system made of only gas giants. |  
 | Blikk | A undead, fast-spinning pulsar with 3 dead planets. |  
 | Swarch | A gigantic black hole that may have a planet. |  
-| Swarch Cluster | A cluster of 5 stars, ranging from K-types to O-types |
+| Swarch Cluster | A cluster of 5 stars, ranging from K-types to O-types. |
+| Orioss AB | A dance of 3 stars, with 2 unique planets. | 
 
 **Project Hail Mary Expansion**  
 |  System  | Overview |
@@ -173,6 +175,7 @@ All Systems have been made; it's only small tweaks and config writing that are l
 | Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. |
 | Blikk, a fast-spinning pulsar with 4 dead planets. |
 | Swarch Cluster, a cluster of 5 stars orbiting a supermassive black hole. |
+| Orioss AB, a 3 star system far away from Kerbol. |
 
 ###### I have a lot of free time, so each update can contain a vast amount of content while keeping the same quality as other planet packs.
 
